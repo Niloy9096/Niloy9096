@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niloy Chowdhury</h1>
 <h3 align="center">As a current CSE student, I possess an intermediate level of coding proficiency and am actively honing my skills in computer science and programming further to enhance my expertise and knowledge in the field.</h3>
-<img align="middle" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl4MnBjZmU5dXQyaGt5M2FnNWRqeXlvYWZjZnZhMzNiY21ydzBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl4MnBjZmU5dXQyaGt5M2FnNWRqeXlvYWZjZnZhMzNiY21ydzBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloy9096&label=Profile%20views&color=0e75b6&style=flat" alt="niloy9096" /> </p>
 
