@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niloy Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Niloy Chowdhury</h1> 
 <h3 align="center">As a current CSE student, I possess an intermediate level of coding proficiency and am actively honing my skills in computer science and programming further to enhance my expertise and knowledge in the field.</h3>
 
 
