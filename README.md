@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niloy Chowdhury</h1> 
 <h3 align="center">As a current CSE student, I possess an intermediate level of coding proficiency and am actively honing my skills in computer science and programming further to enhance my expertise and knowledge in the field.</h3>
-
-
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloy9096&label=Profile%20views&color=0e75b6&style=flat" alt="niloy9096" /> </p>
